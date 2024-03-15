@@ -1,6 +1,6 @@
  /*
-Aim: Practical No.4   Author: Peeyush KAware
-USN: AD22057          Date: 20 Feb,2024
+Aim: Practical No.5   Author: Shyam Patil
+USN: AD22030          Date: 20 Feb,2024
 */
 class Emerging_Technologie {
     String principle;

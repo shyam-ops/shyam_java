@@ -2,7 +2,7 @@ class Practicalno1
 {
     public static void main(String []argv)
     {
-        CompanyData SBJAIN = new CompanyData("Peeyush Kaware",19,"Male",57);
+        CompanyData SBJAIN = new CompanyData("Shyam Patil",19,"Male",29);
         SBJAIN.display();
     }
 
